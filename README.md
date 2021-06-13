@@ -1,7 +1,4 @@
-# CollectionBuilder-SA 
-
-> **Note:** This repository is not under active development. 
-> For the newest iteration, please check [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv)
+# UP SLIS @ 60 Digital Exhibit 
 
 CollectionBuilder-SA ("Stand Alone") is a template for creating digital collection and exhibit websites using Jekyll, given:
 
