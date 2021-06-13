@@ -8,30 +8,30 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: http://upslis.info
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: /SLISat60
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
+source-code: https://github.com/pvperez1/slis60_draft
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder SA
+title: UP SLIS @ 60
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Challenging Traditions. Embracing Innovations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."
+description: "This Digital Exhibit celebrates the milestones and achievement of the UP School of Library and Information Studies"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: upslis; library and information science; 60th anniversary
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: pvperez1
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-name: "UP School of Library and Information Studies"
+organization-link: http://upslis.info
+organization-logo-banner: http://upslis.info/images/logolong.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
 ##########
