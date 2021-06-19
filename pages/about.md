@@ -8,24 +8,27 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="coll0012" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Acknowledgements" %}
 
 ## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-SA](https://github.com/CollectionBuilder/collectionbuilder-sa).
+Illum maiores fugit natus sit in sint amet eum. Quod id omnis itaque possimus beatae et esse. Sit sequi consequatur debitis. In sed facilis ipsa sint voluptatum ratione. Odit voluptatum et aut itaque mollitia quas eius. Odio aliquid quasi consequuntur et natus voluptates et accusantium.
 
-CollectionBuilder-SA is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Veniam soluta quo ipsa omnis nesciunt. Possimus sapiente nisi cumque rerum pariatur voluptates. Facere ad occaecati nulla porro numquam ratione fuga minima. Est vero eligendi fugiat libero autem.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Expedita dolor omnis quo est aut aperiam eaque. Enim necessitatibus reiciendis rerum earum expedita repudiandae. Tenetur id nisi explicabo reiciendis deleniti assumenda consequatur enim.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Laborum quia doloremque velit possimus porro est sint non. Voluptatum ut perferendis doloribus ut eaque soluta incidunt. Qui magnam perspiciatis est iusto incidunt.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+In veritatis facere unde sint autem ea. Perferendis omnis qui voluptas minima assumenda ipsam nihil laboriosam. Ea occaecati ut maiores eaque eum saepe est natus.
 
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %}
+## Acknowledgements
+
+Illum maiores fugit natus sit in sint amet eum. Quod id omnis itaque possimus beatae et esse. Sit sequi consequatur debitis. In sed facilis ipsa sint voluptatum ratione. Odit voluptatum et aut itaque mollitia quas eius. Odio aliquid quasi consequuntur et natus voluptates et accusantium.
+
+Veniam soluta quo ipsa omnis nesciunt. Possimus sapiente nisi cumque rerum pariatur voluptates. Facere ad occaecati nulla porro numquam ratione fuga minima. Est vero eligendi fugiat libero autem.
+
+Expedita dolor omnis quo est aut aperiam eaque. Enim necessitatibus reiciendis rerum earum expedita repudiandae. Tenetur id nisi explicabo reiciendis deleniti assumenda consequatur enim.
+

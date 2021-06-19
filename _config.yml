@@ -18,12 +18,12 @@ source-code: https://github.com/pvperez1/slis60_draft
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: UP SLIS @ 60
+title: UP SLIS@60
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Challenging Traditions. Embracing Innovations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This Digital Exhibit celebrates the milestones and achievement of the UP School of Library and Information Studies"
+description: "This Digital Exhibit celebrates the milestones and achievements of the UP School of Library and Information Studies"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: upslis; library and information science; 60th anniversary
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -31,8 +31,8 @@ author: pvperez1
 # Organization branding
 organization-name: "UP School of Library and Information Studies"
 organization-link: http://upslis.info
-organization-logo-banner: http://upslis.info/images/logolong.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-banner: /assets/img/slis.png
+organization-logo-nav: /assets/img/slis_white.png
 
 ##########
 # COLLECTION SETTINGS
