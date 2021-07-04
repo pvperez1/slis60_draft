@@ -10,25 +10,22 @@ credits: true
 
 {% include feature/jumbotron.html objectid="coll0012" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;Acknowledgements" %}
+{% include feature/nav-menu.html sections="About the Collection;Acknowledgements; Digital Exhibit Team" %}
 
 ## About the Collection
 
-Illum maiores fugit natus sit in sint amet eum. Quod id omnis itaque possimus beatae et esse. Sit sequi consequatur debitis. In sed facilis ipsa sint voluptatum ratione. Odit voluptatum et aut itaque mollitia quas eius. Odio aliquid quasi consequuntur et natus voluptates et accusantium.
-
-Veniam soluta quo ipsa omnis nesciunt. Possimus sapiente nisi cumque rerum pariatur voluptates. Facere ad occaecati nulla porro numquam ratione fuga minima. Est vero eligendi fugiat libero autem.
-
-Expedita dolor omnis quo est aut aperiam eaque. Enim necessitatibus reiciendis rerum earum expedita repudiandae. Tenetur id nisi explicabo reiciendis deleniti assumenda consequatur enim.
-
-Laborum quia doloremque velit possimus porro est sint non. Voluptatum ut perferendis doloribus ut eaque soluta incidunt. Qui magnam perspiciatis est iusto incidunt.
-
-In veritatis facere unde sint autem ea. Perferendis omnis qui voluptas minima assumenda ipsam nihil laboriosam. Ea occaecati ut maiores eaque eum saepe est natus.
+This Digital Exhibit commemorates the 60 years of the UP School of Library and Information Studies. It highlights some of the people and events that have been part of the institution.
+We encourage you to browse the collection and celebrate this important milestone with us.
+If you have some UP SLIS memorabilia that you want to share with us, you may submit your digital material through: [UP SLIS iRemember](http://upslis.info/iremember)
 
 ## Acknowledgements
 
-Illum maiores fugit natus sit in sint amet eum. Quod id omnis itaque possimus beatae et esse. Sit sequi consequatur debitis. In sed facilis ipsa sint voluptatum ratione. Odit voluptatum et aut itaque mollitia quas eius. Odio aliquid quasi consequuntur et natus voluptates et accusantium.
+The UP SLIS@60 Digital Exhibit would like to thank the UP SLIS Coffee Table Book Team composed of the following:
++ Prof. Johann Frederick A. Cabbab
++ Prof. Iyra S. Buenrostro-Cabbab, Ph.D.
++ Mr. Dridge Paul A. Reyes
 
-Veniam soluta quo ipsa omnis nesciunt. Possimus sapiente nisi cumque rerum pariatur voluptates. Facere ad occaecati nulla porro numquam ratione fuga minima. Est vero eligendi fugiat libero autem.
+## Digital Exhibit Team
 
-Expedita dolor omnis quo est aut aperiam eaque. Enim necessitatibus reiciendis rerum earum expedita repudiandae. Tenetur id nisi explicabo reiciendis deleniti assumenda consequatur enim.
-
++ Prof. Paul Jason V. Perez
++ Mr. David C. Viray, Student Assistant
